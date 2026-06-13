@@ -9,7 +9,7 @@ from flask import Flask, Response, render_template_string
 # xXXXXXXXXXXXx
 # CONFIG
 # xXXXXXXXXXXXx
-WEBHOOK_URL = "https://discordapp.com/api/webhooks/1504967345494294578/VBArv-OdIVfinrkYt2WapyU6WhwqVFtLVisdvLF1qfT6eLlj2NFrHMOyQnJmvDWAbgRU"
+WEBHOOK_URL = "EXTERNAL WEBHOOK HERE!"
 CAMERAS = [0, 1]  # multi-camera support
 FPS = 20
 SENSITIVITY = 25
